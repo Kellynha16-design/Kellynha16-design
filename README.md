@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Olá! Eu sou a Kelly
+
 
 <div align="center">
 
@@ -20,34 +20,36 @@
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=python,c,haskell,linux,git,postgresql" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/Haskell-5E5086?style=for-the-badge&logo=haskell&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 </div>
-
----
 
 ## 🌐 Redes sociais
 
 <div align="left">
 
 <a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-9B5DE5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="SEU_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-9B5DE5?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="SEU_DISCORD">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="SEU_TWITCH">
+<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
 </a>
 
 </div>
 
----
 
-## 📊 GitHub
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
