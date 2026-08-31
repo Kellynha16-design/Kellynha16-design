@@ -49,13 +49,11 @@
   <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
 </a>
 
-</div>
 
-<div align="center">
+<<div align="center">
 
-<img src="./yoshihouse.gif" width="500">
+<img src="./super-mario.gif" width="500">
 
 ### 🍎 Obrigada por visitar meu perfil! 💜
 
 </div>
-
