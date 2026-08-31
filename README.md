@@ -51,5 +51,11 @@
 
 </div>
 
+<div align="center">
 
+<img src="./yoshihouse.gif" width="500">
+
+### 🍎 Obrigada por visitar meu perfil! 💜
+
+</div>
 
